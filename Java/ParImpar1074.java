@@ -24,6 +24,6 @@ public class ParImpar1074 {
                 System.out.println("NULL");
             }
         });
-
+        teclado.close();
     }
 }

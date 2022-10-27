@@ -83,5 +83,7 @@ public class Animal1049 {
         }
 
         System.out.println(saida);
+        teclado.close();
+
     }
 }

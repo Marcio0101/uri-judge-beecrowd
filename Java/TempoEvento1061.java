@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class TempoEvento1061 {
         public static void main(String[] args) {
-                
+
                 Scanner teclado = new Scanner(System.in);
                 String diaInicio, horaInicio, diaFim, horaFim;
                 LocalDateTime ldInicio;
@@ -37,6 +37,7 @@ public class TempoEvento1061 {
 
                 System.out.println(dia + " dia(s)\n" + horas + " hora(s)\n" + minutos + " minuto(s)\n" + segundos
                                 + " segundo(s)");
+                teclado.close();
 
         }
 }

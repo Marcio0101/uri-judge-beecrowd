@@ -27,6 +27,7 @@ public class AumentoSalario1048 {
         System.out.println("Novo salario: " + String.format("%.2f", novoSalario).replace(",", "."));
         System.out.println("Reajuste ganho: " + String.format("%.2f", reajuste).replace(",", "."));
         System.out.println("Em percentual: " + percentual + " %");
+        teclado.close();
 
     }
 }

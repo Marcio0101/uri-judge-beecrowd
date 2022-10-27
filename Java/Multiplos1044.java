@@ -10,5 +10,7 @@ public class Multiplos1044 {
         b = teclado.nextInt();
 
         System.out.println(a % b == 0 || b % a == 0 ? "Sao Multiplos" : "Nao sao Multiplos");
+        teclado.close();
+    
     }
 }

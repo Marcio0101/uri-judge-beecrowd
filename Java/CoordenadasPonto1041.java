@@ -1,4 +1,5 @@
 package Java;
+
 import java.util.Scanner;
 
 public class CoordenadasPonto1041 {
@@ -21,5 +22,7 @@ public class CoordenadasPonto1041 {
         } else {
             System.out.println(x > 0 ? "Q4" : "Q3");
         }
+        teclado.close();
+
     }
 }

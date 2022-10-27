@@ -18,6 +18,7 @@ public class TempoJogoMinutos1047 {
         resultado = inicioMinuto < fimMinuto ? (inicioMinuto - fimMinuto) * (-1) : (1440 - inicioMinuto) + fimMinuto;
 
         System.out.println("O JOGO DUROU " + resultado / 60 + " HORA(S) E " + resultado % 60 + " MINUTO(S)");
+        teclado.close();
 
     }
 }

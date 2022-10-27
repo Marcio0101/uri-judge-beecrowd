@@ -15,6 +15,7 @@ public class Triangulo {
         } else {
             System.out.println("Area = " + (((a + b) * c) / 2)); 
         }
+        teclado.close();
 
     }
 }

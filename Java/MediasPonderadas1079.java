@@ -23,6 +23,7 @@ public class MediasPonderadas1079 {
 
         //     System.out.println(String.format("%.1f", ((n1 * 2) + (n2 * 3) + (n3 * 5)) / 10));
         // });
+        teclado.close();
 
     }
 }

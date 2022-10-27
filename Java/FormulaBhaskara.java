@@ -22,6 +22,7 @@ public class FormulaBhaskara {
         } else {
             System.out.println("Impossivel calcular");
         }
+        teclado.close();
 
     }
 }

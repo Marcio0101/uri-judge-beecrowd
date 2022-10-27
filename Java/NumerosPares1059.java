@@ -7,5 +7,6 @@ public class NumerosPares1059 {
                 System.out.println(i);
             }
         }
+        
     }
 }

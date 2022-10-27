@@ -14,6 +14,7 @@ public class ParesEntreCincoNumeros1065 {
         }
 
         System.out.println(contPar + " valores pares");
+        teclado.close();
 
     }
 }

@@ -18,6 +18,7 @@ public class SortSimples {
                 .collect(Collectors.toList()).forEach(System.out::println);
         System.out.println();
         valores.forEach(System.out::println);
+        teclado.close();
 
     }
 }

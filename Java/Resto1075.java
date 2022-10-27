@@ -14,6 +14,7 @@ public class Resto1075 {
                 System.out.println(i);
             }
         }
+        teclado.close();
 
     }
 }

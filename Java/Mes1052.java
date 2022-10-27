@@ -10,6 +10,7 @@ public class Mes1052 {
         int mes = teclado.nextInt();
 
         System.out.println(meses[mes - 1]);
+        teclado.close();
 
     }
 }

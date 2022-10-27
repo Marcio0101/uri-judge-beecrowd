@@ -26,6 +26,8 @@ public class NotasMoedas {
                 System.out.println("MOEDAS:");
             }
         }
+        teclado.close();
+
  
     }
  

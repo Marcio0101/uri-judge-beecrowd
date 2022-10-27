@@ -14,6 +14,7 @@ public class QuadradoPares1073 {
                 System.out.println(i + "^2 = " + String.format("%.0f", Math.pow(i, 2)));
             }
         }
+        teclado.close();
 
     }
 }

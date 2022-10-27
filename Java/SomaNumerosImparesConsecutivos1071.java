@@ -22,6 +22,7 @@ public class SomaNumerosImparesConsecutivos1071 {
         }
 
         System.out.println(soma);
+        teclado.close();
 
     }
 }

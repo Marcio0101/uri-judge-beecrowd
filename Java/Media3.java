@@ -34,6 +34,7 @@ public class Media3 {
             }
             System.out.println("Media final: "
                     + (((Double.parseDouble(notaExame.replace(",", ".")) + (Math.floor(media * 10) / 10)) / 2)));
+                    teclado.close();
 
         }
 

@@ -16,6 +16,7 @@ public class NumerosImpares1067 {
                 }
             }
         }
+        teclado.close();
 
     }
 }

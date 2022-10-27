@@ -30,5 +30,7 @@ public class TiposTriangulo1045 {
                 System.out.println("TRIANGULO ISOSCELES");
             }
         }
+        teclado.close();
+
     }
 }

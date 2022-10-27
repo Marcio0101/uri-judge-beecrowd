@@ -22,5 +22,7 @@ public class Ddd1050 {
 
         saida = lista.get(entrada);
         System.out.println(saida != null ? saida : "DDD nao cadastrado");
+        teclado.close();
+
     }
 }

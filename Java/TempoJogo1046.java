@@ -13,6 +13,7 @@ public class TempoJogo1046 {
         resultado = inicio < fim ? (inicio - fim) * (-1) : (24 - inicio) + fim;
 
         System.out.println("O JOGO DUROU " + resultado + " HORA(S)");
+        teclado.close();
 
     }
 }

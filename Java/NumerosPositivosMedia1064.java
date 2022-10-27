@@ -17,6 +17,7 @@ public class NumerosPositivosMedia1064 {
 
         System.out.println(numeros.size() + " valores positivos");
         System.out.println(String.format("%.1f", numeros.stream().reduce(0.0, Double::sum) / numeros.size()));
+        teclado.close();
 
     }
 }

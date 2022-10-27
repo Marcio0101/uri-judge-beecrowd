@@ -13,6 +13,7 @@ public class NumerosPositivos1060 {
         }
 
         System.out.println(qtde + " valores positivos");
+        teclado.close();
 
     }
 }

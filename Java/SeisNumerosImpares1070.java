@@ -20,6 +20,7 @@ public class SeisNumerosImpares1070 {
                 entrada++;
             }
         }
+        teclado.close();
 
     }
 }

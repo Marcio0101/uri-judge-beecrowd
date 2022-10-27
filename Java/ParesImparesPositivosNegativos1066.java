@@ -29,6 +29,7 @@ public class ParesImparesPositivosNegativos1066 {
         System.out.println(cont[1] + " valor(es) impar(es)");
         System.out.println(cont[2] + " valor(es) positivo(s)");
         System.out.println(cont[3] + " valor(es) negativo(s)");
+        teclado.close();
 
     }
 }

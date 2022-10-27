@@ -23,6 +23,7 @@ public class ImpostoRenda1051 {
 
             System.out.println("R$ " + String.format("%.2f", impressao));
         }
+        teclado.close();
 
     }
 }

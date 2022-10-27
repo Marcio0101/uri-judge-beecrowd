@@ -22,6 +22,7 @@ public class Intervalo1072 {
 
         System.out.println(in + " in");
         System.out.println(out + " out");
+        teclado.close();
 
     }
 }
