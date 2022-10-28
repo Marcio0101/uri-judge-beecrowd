@@ -1,15 +1,18 @@
-package iniciante.Java;
+package iniciante.java;
 
 import java.util.Scanner;
 
 public class TiposTriângulos1045 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
+        Double x,y,z;
 
         String entrada = teclado.nextLine();
-        Double a = Double.parseDouble(entrada.split(" ")[0]);
-        Double b = Double.parseDouble(entrada.split(" ")[1]);
-        Double c = Double.parseDouble(entrada.split(" ")[2]);
+        Double n1 = Double.parseDouble(entrada.split(" ")[0]);
+        Double n2 = Double.parseDouble(entrada.split(" ")[1]);
+        Double n3 = Double.parseDouble(entrada.split(" ")[2]);
+
+
 
         if (a >= b + c || b >= a + c || c >= a + b) {
             System.out.println("NAO FORMA TRIANGULO");

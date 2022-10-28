@@ -1,4 +1,4 @@
-package Java;
+package iniciante.java;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

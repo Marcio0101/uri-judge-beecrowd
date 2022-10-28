@@ -1,4 +1,4 @@
-package Java;
+package iniciante.java;
 import java.util.Scanner;
 
 public class NumerosImpares1067 {

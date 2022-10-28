@@ -1,4 +1,4 @@
-package Java;
+package iniciante.java;
 
 public class NumerosPares1059 {
     public static void main(String[] args) {

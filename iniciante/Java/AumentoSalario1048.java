@@ -1,4 +1,4 @@
-package iniciante.Java;
+package iniciante.java;
 import java.util.Scanner;
 
 public class AumentoSalario1048 {
