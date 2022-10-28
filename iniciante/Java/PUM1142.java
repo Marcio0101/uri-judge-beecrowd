@@ -1,4 +1,4 @@
-package Java;
+package iniciante.Java;
 
 import java.util.Scanner;
 
@@ -8,11 +8,11 @@ public class PUM1142 {
 
         int entrada = teclado.nextInt();
 
-        for (int i = 1; i < entrada; i++) {
+        for (int i = 1; i <= entrada; i++) {
             String impressao = "";
-            for (int j = 1; j < 4; j++) {
+            for (int j = 3; j >= 0; j--) {
 
-                impressao += " " + (j == 3 ? "PUM" : 4 * i - ();
+                impressao += " " + (j == 0 ? "PUM" : 4 * i - j);
 
             }
             System.out.println(impressao.trim());
