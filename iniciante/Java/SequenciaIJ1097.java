@@ -1,4 +1,4 @@
-package Java;
+package iniciante.java;
 
 public class SequenciaIJ1097 {
     public static void main(String[] args) {
